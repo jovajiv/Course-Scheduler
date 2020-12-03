@@ -1,0 +1,11 @@
+S, hist_grad, 12
+S, cs_undgrad, 550
+S, psych_undgrad, 150
+S, psych_grad, 25
+R, 1, 90/233
+R, 2, 90/234
+R, 3, 90/235
+C, 1, French Revolution, hist_grad, 10, 1, 4
+C, 2, SPL 191(1), cs_undgrad, 80, 1, 2
+C, 3, SPL 191(2), cs_undgrad, 80, 2, 2
+C, 4, What will Sigmund think, psych_undgrad, 25, 2, 2
